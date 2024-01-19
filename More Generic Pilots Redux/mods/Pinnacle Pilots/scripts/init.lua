@@ -1,6 +1,7 @@
 local mod = {
 	id = "more_generic_pinnacle",
 	name = "Pinnacle Pilots",
+	version = "1.0",
 	icon = "img/icon.png",
 	description = "Toggles additional Pinnacle sprites.",
 }
