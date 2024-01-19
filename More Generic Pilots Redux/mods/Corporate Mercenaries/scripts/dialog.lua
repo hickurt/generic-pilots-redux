@@ -52,7 +52,7 @@ return {
 	},
     Death_Response = {
 		"#main_second is down!",
-		"Damn it, we couldn't save them. Lost #main_second.",
+		"Damn it, we lost #main_second!",
 	},
     Death_Response_AI = {
 		"AI's gone offline. It's just us now.",
