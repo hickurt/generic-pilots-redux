@@ -1,4 +1,4 @@
-# generic-pilots-redux 
+# generic-pilots-redux ➕
 
 ![More Generic Pilots Redux](https://cdn.discordapp.com/attachments/899045757586399254/1197884367293403197/Group_38_1.png)
 
@@ -15,5 +15,5 @@ I've also added a new generic pilot - the corporate merc, who's unaffiliated wit
 
 Each group of pilots is also now toggleable.  I may add more later.
 
-*credit to stylesrj for making the original mod and also giving me permission to update it*
+*credit to stylesrj for making the original mod / giving me permission to update it, and ITB discord guys for spriting help*
 
