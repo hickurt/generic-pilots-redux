@@ -3,7 +3,7 @@ local mod = {
 	name = "Pinnacle Pilots",
 	version = "1.0",
 	icon = "img/icon.png",
-	description = "Toggles additional Pinnacle sprites.",
+	description = "Toggles additional Pinnacle pilots.",
 }
 
 

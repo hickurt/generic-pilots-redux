@@ -4,7 +4,7 @@ local mod = {
 	version = "1.0",
 	modApiVersion = "2.9.1",
 	icon = "img/icon.png",
-	description = "Toggles additional R.S.T. sprites.",
+	description = "Toggles additional R.S.T. pilots.",
 }
 
 

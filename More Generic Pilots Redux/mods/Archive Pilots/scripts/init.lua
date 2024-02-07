@@ -4,7 +4,7 @@ local mod = {
 	version = "1.0",
 	modApiVersion = "2.9.1",
 	icon = "img/icon.png",
-	description = "Toggles additional Archive sprites.",
+	description = "Toggles additional Archive pilots.",
 }
 
 
