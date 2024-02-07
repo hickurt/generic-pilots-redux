@@ -11,7 +11,7 @@ What this mod simply does is adds 4 (now 10!) more generic pilots; they're recol
 
 I've also added a new generic pilot - the corporate merc, who's unaffiliated with any existing island (much like the new pilots).
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](More%20Generic%20Pilots%20Redux/mods/Corporate%20Mercenaries/img/portraits/npcs/merc1.png)
+![pilot image](More%20Generic%20Pilots%20Redux/mods/Corporate%20Mercenaries/img/portraits/npcs/merc1.png)
 
 Each group of pilots is also now toggleable.  I may add more later.
 
