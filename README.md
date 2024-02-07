@@ -13,6 +13,8 @@ I've also added a new generic pilot - the corporate merc, who's unaffiliated wit
 
 ![pilot image](More%20Generic%20Pilots%20Redux/mods/Corporate%20Mercenaries/img/portraits/npcs/merc1.png)
 
+```Members of an elusive private military company with an obsession for Old Earth tech, these soldiers exhibit a strong sense of loyalty to their squad.```
+
 Each group of pilots is also now toggleable.  I may add more later.
 
 *credit to stylesrj for making the original mod / giving me permission to update it, and ITB discord guys for spriting help*
