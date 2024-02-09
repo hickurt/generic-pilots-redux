@@ -15,7 +15,7 @@ I've also added a new generic pilot - the corporate merc, who's unaffiliated wit
 
 ```Members of an elusive private military company with an obsession for Old Earth tech, these soldiers exhibit a strong sense of loyalty to their squad.```
 
-Each group of pilots is also now toggleable. Includes two versions:
+Each group of pilots is also now toggleable. Includes two versions (toggleable in-game):
 
 * Default - Adds all the new pilots including colour swaps.
 
