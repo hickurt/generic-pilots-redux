@@ -11,15 +11,15 @@ What this mod simply does is adds 4 (now 10!) more generic pilots; they're recol
 
 I've also added a new generic pilot - the corporate merc, who's unaffiliated with any existing island (much like the new pilots).
 
-![pilot image](More%20Generic%20Pilots%20Redux/mods/Corporate%20Mercenaries/img/portraits/npcs/merc1.png)
+![pilot image](More%20Generic%20Pilots%20Redux/mods/Default/mods/Corporate%20Mercenaries/img/portraits/npcs/merc1.png)
 
 ```Members of an elusive private military company with an obsession for Old Earth tech, these soldiers exhibit a strong sense of loyalty to their squad.```
 
 Each group of pilots is also now toggleable. Includes two versions (toggleable in-game):
 
-* Default - Adds all the new pilots including colour swaps.
+* Default - Adds all pilots including colour swaps.
 
-* Streamlined - Adds only the new pilots and no colour swaps, for more of a vanilla feel.
+* Streamlined - Adds only the new pilots (corporate merc, pinnacle human) and no colour swaps, for more of a vanilla feel.
 
 I may add more later.
 
