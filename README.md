@@ -15,7 +15,13 @@ I've also added a new generic pilot - the corporate merc, who's unaffiliated wit
 
 ```Members of an elusive private military company with an obsession for Old Earth tech, these soldiers exhibit a strong sense of loyalty to their squad.```
 
-Each group of pilots is also now toggleable.  I may add more later.
+Each group of pilots is also now toggleable. Includes two versions:
+
+* Default - Adds all the new pilots including colour swaps.
+
+* Streamlined - Adds only the new pilots and no colour swaps, for more of a vanilla feel.
+
+I may add more later.
 
 *credit to stylesrj for making the original mod / giving me permission to update it, and ITB discord guys for spriting help*
 
