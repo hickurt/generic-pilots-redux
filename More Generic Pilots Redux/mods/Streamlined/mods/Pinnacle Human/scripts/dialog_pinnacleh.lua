@@ -539,8 +539,8 @@ return {
 		"Class-C Nuclear warhead detected. Engaging safety protocols.",
 	},
 	Mission_tosx_RaceReminder = {
-		"Reminder: Our primary objective is to escort the Race Rigs to the finish line.",
-		"Commander, we still need to escort the Rigs to the finish line. My data indicates the red one goes faster.",
+		"Reminder: Our primary objective is to escort one Race Rig to the finish line.",
+		"Commander, we still need to escort one of the Rigs to the finish line. My data indicates the red one goes faster.",
 	},
 	Mission_tosx_MercsPaid = {
 		"The mercenaries have joined us. Likelihood of betrayal: 32%.",

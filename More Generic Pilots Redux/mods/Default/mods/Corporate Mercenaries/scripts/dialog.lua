@@ -30,7 +30,7 @@ return {
 		"What in the world is that?",
 	},
     FTL_Start = {
-		"An extraterrestrial, huh? As if the bugs weren't enough. Hope it's not planning to probe us.",
+		"An extraterrestrial, huh? As if bugs weren't enough. Hope it's not planning to probe us.",
 	},
     Gamestart_PostVictory = {
 		"Another timeline. New weapons. Same threat.",
@@ -103,9 +103,8 @@ return {
 		"Remember #squad, no heroics. Just get the job done.",
 	},
     Mission_ResetTurn = {
-		"What's the plan this time? I'm all ears... again.",
+		"What's the plan this time?",
 		"Time for a do-over? I must've missed something.",
-	    "Back we go, hope I don't step on any butterflies.",
 		"Ugh...",
 	},
     MissionEnd_Dead = {
@@ -127,24 +126,23 @@ return {
 		"Hey, look. Pod incoming.",
 	},
     PodResponse = {
-		"Let's get that pod before the bugs do.",
+		"Let's get that Pod before the bugs do.",
 		"Pod's a wreck, guess we shouldn't expect much.",
-		"Recover that pod!",
+		"Recover that Pod!",
 		"Updating our mission parameters to prioritize Pod retrieval.",
-		"Great, a banged-up pod. What's inside, trash?",
+		"Great, a banged-up Pod. What's inside, trash?",
 		"Pod crash-landed. Maybe we can salvage it.",
 	},
     PodCollected_Self = {
 		"Pod acquired.",
 		"Pod secured.",
 		"Got it!",
-		"Got the pod. Fingers crossed for an Old Earth weapon.",
+		"Got the Pod. Fingers crossed for an Old Earth weapon.",
 	},
     PodDestroyed_Obs = {
-		"Are you kidding me? Pod's gone!",
-		"Great, just great. Another pod wasted.",
+		"Pod's gone!",
 		"Pod destroyed. That's coming out of someone's paycheck.",
-		"Damn it! We lost the pod!",
+		"Damn it! We lost the Pod!",
 	},
     Secret_DeviceSeen_Mountain = {
 		"Got a strange reading from that mountain.",
@@ -188,8 +186,8 @@ return {
 		"Hull integrity failing fast!",
 	},
     Mech_Webbed = {
-		"Can't move! I'm pinned!",
-		"Stuck here like a sitting duck!",
+		"I'm pinned!",
+		"Can't move!",
 		"Get it off! I'm trapped!",
 	},
     Mech_Shielded = {
@@ -271,7 +269,6 @@ return {
 		"That's how it's done!",
 		"Good kill. Keep 'em coming.",
 		"Nice work, trooper!",
-		"That's how we do it. Keep 'em dropping like flies.",
 	},
     DoubleVekKill_Vek = {
 		"Guess they didn't get the memo: No friendly fire.",
@@ -282,7 +279,6 @@ return {
     MntDestroyed_Self = {
 		"Clearing the rubble.",
 		"Mountain no longer an obstacle.",
-		"Who needs dynamite?",
 	},
     MntDestroyed_Obs = {
 		"Get those rocks out of the way.",
@@ -340,14 +336,13 @@ return {
 	-- Archive Mission Events
 	Mission_Tanks_Activated = {
 		"Tanks online.",
-		"Friendly tanks on the field.",
-		"Vintage tanks? Now we're talking! Let's show the Vek how it's done.",
-		"Now that's what I call classic firepower. Glad to see some Old Earth muscle.",
+		"Old Earth muscle on the field.",
+		"Vintage tanks? Now we're talking!",
+		"Now that's what I call a classic!",
 		"Old Earth tech never goes out of style. Let's show 'em what these beauties can do!",
 	},
 	Mission_Tanks_PartialActivated = {
-		"One tank made it.",
-		"Damn, the other tank didn't make it. Let's make it count.",
+		"One tank made it...",
 		"Tank's ready. Shame about the other - that was a classic.",
 		"We've got an Old Earth tank online. Keep it safe!",
 	},
@@ -507,7 +502,7 @@ return {
 	},
 	Mission_lmn_Volcanic_Vent_Erupt_Vek = {
 		"That should give the Vek something to think about.",
-		"Volcanoes? Should've brought marshmallows.",
+		"Did anyone bring marshmallows?",
 	},
 	Mission_lmn_Wind_Push = {
 		"Secure your positions! Strong winds incoming!",
@@ -699,7 +694,6 @@ return {
 	},
 	Mission_tosx_OceanStart = {
 		"No land in sight... better keep a weather eye on those ships, and use the platforms they create to launch our attacks.",
-		"I'm used to seeing the open ocean from a boat; it's a bit different in a Mech.",
 		"I hope those ships can build some new deepwater platforms quickly, or we'll have nowhere to fight.",
 	},
 	Mission_tosx_RTrain_Destroyed = {
