@@ -1,6 +1,8 @@
 # generic-pilots-redux ➕
 
-![More Generic Pilots Redux](https://cdn.discordapp.com/attachments/899045757586399254/1197884367293403197/Group_38_1.png)
+![More Generic Pilots Redux](https://i.imgur.com/312yGxB.png)
+
+
 
 This is an updated version of stylesrj's [More Generic Pilots](https://subsetgames.com/forum/viewtopic.php?f=25&t=34239) mod.  
 
